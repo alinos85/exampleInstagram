@@ -1,0 +1,26 @@
+.contener {
+  position: absolute;
+  float: left;
+  width: 25%;
+}
+.avatar {
+  position: relative;
+  display: inline-block;
+  padding-top: 50px;
+  bottom: 200px;
+}
+.uplaodAvatar {
+  position: absolute;
+  bottom: 1px;
+  right: 0px;
+  padding: 0px;
+}
+.info {
+  display: inline-block;
+  max-width: 300px;
+  text-align: left;
+}
+.profile {
+  margin: 0 auto;
+  width: 600px;
+}
